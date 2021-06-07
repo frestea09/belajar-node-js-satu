@@ -1,0 +1,19 @@
+{
+  "name": "belajar-node",
+  "version": "1.0.0",
+  "description": "pada ini kita belajar node js",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frestea09/belajar-node-js-satu.git"
+  },
+  "author": "ilman teguh prasetya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frestea09/belajar-node-js-satu/issues"
+  },
+  "homepage": "https://github.com/frestea09/belajar-node-js-satu#readme"
+}
